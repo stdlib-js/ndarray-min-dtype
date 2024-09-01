@@ -20,8 +20,7 @@
 
 ### BREAKING CHANGES
 
--   [`21052a2`](https://github.com/stdlib-js/stdlib/commit/21052a211289b86b0e8a2e1f43a4d4c5b2379ffb): add boolean dtype support to ndarray/min-dtype
--   [`21052a2`](https://github.com/stdlib-js/stdlib/commit/21052a211289b86b0e8a2e1f43a4d4c5b2379ffb): return "bool" when provided a boolean 
+-   [`21052a2`](https://github.com/stdlib-js/stdlib/commit/21052a211289b86b0e8a2e1f43a4d4c5b2379ffb): return "bool" when provided a boolean
 
     -   To migrate, users explicitly handle "bool" return values. If "generic" is still desired, users should consolidate accordingly.
 
@@ -109,8 +108,7 @@ No changes reported for this release.
 
 ### BREAKING CHANGES
 
--   [`7ae5741`](https://github.com/stdlib-js/stdlib/commit/7ae574143c9716c82cea6cbf839a20b70a9cdfe0): update minimum TypeScript version
--   [`7ae5741`](https://github.com/stdlib-js/stdlib/commit/7ae574143c9716c82cea6cbf839a20b70a9cdfe0): update minimum TypeScript version to 4.1 
+-   [`7ae5741`](https://github.com/stdlib-js/stdlib/commit/7ae574143c9716c82cea6cbf839a20b70a9cdfe0): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
