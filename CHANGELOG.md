@@ -2,6 +2,50 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-09-18)
+
+<section class="features">
+
+### Features
+
+-   [`13c6723`](https://github.com/stdlib-js/stdlib/commit/13c6723b3f9f5cb9aa3169eadaeb88e03be5e23c) - add float16 dtype support to `ndarray/min-dtype` [(#15290)](https://github.com/stdlib-js/stdlib/pull/15290)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`13c6723`](https://github.com/stdlib-js/stdlib/commit/13c6723b3f9f5cb9aa3169eadaeb88e03be5e23c) - **feat:** add float16 dtype support to `ndarray/min-dtype` [(#15290)](https://github.com/stdlib-js/stdlib/pull/15290) _(by Samarth Kolarkar)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Samarth Kolarkar
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
